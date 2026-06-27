@@ -81,7 +81,7 @@ h1{
 
 .book{
     position:relative;
-    width:400px;
+    width:300px;
     height:650px;
     perspective:2000px;
 }
