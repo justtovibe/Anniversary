@@ -185,6 +185,14 @@ button:hover{
     background:linear-gradient(135deg,#ffe0ec,#fff5f7);
 }
 
+.last-page img{
+    width:80%;
+    height:60%;
+    max-width:300px;
+    border-radius:10px;
+    margin-bottom:20px;
+}
+
 .last-page h2{
     color:#e91e63;
     font-size:2rem;
