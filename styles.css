@@ -6,7 +6,7 @@
 }
 
 body{
-    background:linear-gradient(135deg,#ffdde1,#ee9ca7);
+    background:linear-gradient(135deg,#ffdde1,#ff0022);
     display:flex;
     justify-content:center;
     align-items:center;
@@ -93,6 +93,8 @@ h1{
     object-fit:cover;
 }
 
+
+
 .page{
     position:absolute;
     width:100%;
@@ -125,7 +127,7 @@ h1{
 }
 
 .page-content h2{
-    color:#e91e63;
+    color:#ff0000;
     margin-bottom:10px;
 }
 
@@ -162,7 +164,7 @@ button:hover{
     justify-content:center;
     align-items:center;
     flex-direction:column;
-    background:linear-gradient(135deg,#ff758c,#ff7eb3);
+    background:linear-gradient(135deg,#b41732,#c42b2b);
     color:white;
 }
 
@@ -182,7 +184,7 @@ button:hover{
     flex-direction:column;
     text-align:center;
     padding:30px;
-    background:linear-gradient(135deg,#ffe0ec,#fff5f7);
+    background:linear-gradient(135deg,#b41732,#c42b2b);
 }
 
 .last-page img{
@@ -194,12 +196,12 @@ button:hover{
 }
 
 .last-page h2{
-    color:#e91e63;
+    color:#ffffff;
     font-size:2rem;
     margin-bottom:20px;
 }
 
 .last-page p{
     font-size:1.2rem;
-    color:#555;
+    color:#ffffff;
 }
